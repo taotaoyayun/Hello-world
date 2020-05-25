@@ -1,2 +1,14 @@
 # Hello-world
-first repository
+Hi humans!
+
+Hubot here.this is my first example that to creat a repository.
+
+
+
+
+
+
+
+
+
+
